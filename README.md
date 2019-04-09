@@ -1,8 +1,8 @@
 # KillUltraSurf
 
-This script using for administrators prevent user from using UltraSurf in company environment.
+This script was created to help administrators prevent user from using UltraSurf in company environment.
 
-Tested on UltraSurf version 1902 and two previous version.
+Tested on three version from UltraSurf version 1902
 
 ## How to
 
